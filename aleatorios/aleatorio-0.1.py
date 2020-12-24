@@ -1,0 +1,12 @@
+nome = input('Informe seu nome completo: ')
+rg = int(input('Informe seu RG: '))
+cpf = int(input('Informe seu CPF: '))
+end = str(input('Informe seu endereço: '))
+
+print('--------------- Inicio do Programa ---------------')
+print(f'Olá Sr(a) {nome}')
+print(f'O Sr(a) e inscrito no RG - {rg} e no CPF - {cpf}')
+print(f'Seu enredeço é {end}')
+print('          ')
+print(f'Seus dados foram cadastrados com sucesso!')
+print('---------------FIM do Programa ---------------')
