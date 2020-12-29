@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Exercicio 3.11 - Escreva um programa que solicite o preço de uma mercadoria e o percentual de desconto. Exiba o valor do desconto e o preço a pagar.
 print('    ')
 vpro = float(input('Informe o valor do produto: '))

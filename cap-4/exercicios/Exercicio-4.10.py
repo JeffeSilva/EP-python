@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Exercicio 4.10 - Esreva um programa que calcule o preço a pagar pelo fornecimento de enerfia elétrica. pergunte a quantidade de kWh comnsumida e o tipo de instalação: R para residências, I para indústriais e C para comércios. Calcule o preço a pagar de acordo com a tabela a seguir.
 print ('    ')
 tipo = input('Informe a tipo R - Residencial, C - Comercial ou I - Industrial: ')

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Exercicio 3.9 - Escreva um programa que leia a quantidade de dias, horas, minutos e segundos do usuario. Calcule o total em segundos.
 print('    ')
 dia = int(input('Informe N° em dias: '))

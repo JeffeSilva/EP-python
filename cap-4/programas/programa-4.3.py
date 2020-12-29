@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Programa 4.3 - Cálculo do Imposto de renda
 print ('    ')
 salario = float(input('Digite o salário para cálculo do imposto: '))

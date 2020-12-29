@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Programa 4.1 - Lê dois valores e imprime qual é o maior.
 print('    ')
 n1 = int(input('Informe o primeiro valor: '))

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Programa 4.4 - Carro novo ou velho, dependendo da idade com else
 print('    ')
 idade = int(input('Informe a idade do seu carro: '))

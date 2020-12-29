@@ -1,9 +1,9 @@
+#!/usr/bin/env python
 # Exercicio 4.3 - Escreva um programa que leia três números e que imprima o maior e o menor.
 print ('    ')
 n1 = int(input('Digite um valor: '))
 n2 = int(input('Digite outro valor: '))
 n3 = int(input('Digite mais um valor: '))
-print ('    ')
 # Condições para verificar valor maior
 if n1 > n2 and n1 > n3:
     maior = n1

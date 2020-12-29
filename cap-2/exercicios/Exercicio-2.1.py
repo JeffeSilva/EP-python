@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #Converta as seguintes espressões matemáticas para que possam ser calculadas usando o interpretador Python
 n1 = (10 + 20) * 30
 n2 = (4 ** 2) % 3

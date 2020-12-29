@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Exercicio 4.7 - Rastreie o Programa 4.6 Compare seu resultado ao apresentado na TABELA 4.2
 print ('    ')
 print ('TABELA 4.2')

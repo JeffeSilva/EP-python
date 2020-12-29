@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Exercicio 4.8 - Escreva um programa que leia dois números e que pergunte qual operação você deseja realizar. Você deve poder calcular Soma (+), Subtração (-), Multiplicação (*) e Divisão (/). Exiba o resultado da operação solicitada.
 print ('    ')
 n1 = int(input('Informe um número: '))

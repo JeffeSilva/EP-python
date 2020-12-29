@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Programa 4.5 - Conta de telefone com três faixas de preço.
 print ('    ')
 minutos = int(input('Quantos minutos você utilizou este mês: '))

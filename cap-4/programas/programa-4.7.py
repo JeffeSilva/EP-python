@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Programa 4.7 - Categoria x Preço, usando elif
 print ('    ')
 categoria = int(input('Digite a categoria do produto: '))

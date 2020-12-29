@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Programa 4.6 - Categoria x Preço
 print ('    ')
 categoria = int(input('Digite a categoria do produto: '))

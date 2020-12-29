@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Programa 3.1 - Exemplo de sequência e tempo
 divida = 0
 compra = 100

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Exercicio 4.6 - Escreva um programa que pergunte a distância que um passageiro deseja percorrer em km. Calcule o preço da passagem, cobrando R$0,50 por km para viagens de até 200 Km, e R$ para viagens mais longas
 print ('    ')
 dist = int(input('Informe a distancia do trajeto: '))
