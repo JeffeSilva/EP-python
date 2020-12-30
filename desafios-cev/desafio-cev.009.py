@@ -14,10 +14,12 @@ print (f'{n} x 8 =', n * 8)
 print (f'{n} x 9 =', n * 9)
 print (f'{n} x 10 =', n * 10)
 print (' ')
-print ('Agora tentando usar estrutura de repetição cap-5 do livro')
 
+print ('Agora tentando usar estrutura de repetição cap-5 do livro')
+print (' ')
 n1 = int(input('Informe de qual numero deseja a tabuada: '))
 fim = int(input('Informe até qual valor quer a tabuada: '))
+print (' ')
 x = 1
 while x <= fim:
 	r = n1 * x
