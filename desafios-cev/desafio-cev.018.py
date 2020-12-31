@@ -1,0 +1,16 @@
+#!/usr/bin/env python
+print (' ')
+from math import sin, radians, cos, tan 
+ang = float(input('Informe um angulo graus: '))
+print (' ')
+print (f'O seno de {ang} é:', sin(radians(ang)))
+print (f'O cosseno de {ang} é :', cos(radians(ang)))
+print (f'A tangente de {ang} é:', tan(radians(ang)))
+print (' ')
+sen = sin(radians(ang))
+cose = cos(radians(ang))
+tang = tan(radians(ang))
+print (f'O seno de {ang} é: {sen:.2f}')
+print (f'O cosseno de {ang} é: {cose:.2f}')
+print (f'A tangente de {ang} é: {tang:.2f}')
+print (' ')
