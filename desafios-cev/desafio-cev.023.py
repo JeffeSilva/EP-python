@@ -1,7 +1,10 @@
 #!/usr/bin/env python
-num = str(input('Informe um numero entre 0 e 9999: '))
-div = num.split()
-print('Unidade:', div[0][3])
-print('Dezena:', div[0][2])
-print('Centena:', div[0][1])
-print('Milhar:', div[0][0])
+num = int(input('Informe um numero entre 0 e 9999: '))
+u = num // 1 % 10 
+d = num // 10 % 10
+c = num // 100 % 10
+m = num // 1000 % 10
+print(f'Unidade: {u}')
+print(f'Dezena: {d}')
+print(f'Centena: {c}')
+print(f'Milhar:  {m}')
