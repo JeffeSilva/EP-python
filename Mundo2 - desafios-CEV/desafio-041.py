@@ -12,8 +12,8 @@ elif idade <= 14:
      print('O aluno {} tem {} anos e esta classificado como infantil.'.format(nome, idade))
 elif idade <= 19:
     print('O aluno {} tem {} anos e esta classificado como junior.'.format(nome, idade))
-elif idade <= 20:
+elif idade <= 25:
     print('O aluno {} tem {} anos e esta classificado como sênior.'.format(nome, idade))
-elif idade > 20:
+elif idade > 25:
     print('O aluno {} tem {} anos e esta classificado como master.'.format(nome, idade))
     
