@@ -27,6 +27,10 @@ elif cdp == 2:
 elif cdp == 3:
     print('Valor do produto é: R$ {:.2f} \nem até 2x permanece o valor original de: R$ {:.2f}'.format(vdp, vdp))
 elif cdp == 4:
+    parcelas = int(input('Quantas vezes no cartão: '))
     vdp = vdp + (vdp * 20 / 100)
-    print('Valor do produto é: R$ {:.2f} \n3x ou mais no cartão o valor do produto e acrescido em 20% de juros, resultando em um total de: R$ {:.2f}'.format(vsd, vdp))
+    xnc = vdp / parcelas
+    print('Valor do produto é: R$ {:.2f} \n{}x no cartão o valor do produto e acrescido em 20% de juros, resultando em um total de: R$ {:.2f} e cada parcela fica no valor de: R$ {:.2f}'.format(vsd, parcelas, vdp, xnc))
+else:
+    print('Erro, opção invalida tente novamente!.')
 print(' ')
