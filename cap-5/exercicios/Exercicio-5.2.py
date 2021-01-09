@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Modifique o programa para exibir os números de 50 a 100.
+# Exercicio 5.2 - Modifique o programa para exibir os números de 50 a 100.
 cont = 50
 while cont <= 100:
     print(cont)
