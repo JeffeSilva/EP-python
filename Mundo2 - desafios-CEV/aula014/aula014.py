@@ -45,7 +45,7 @@ print('FIM ')
 print('')
 print('{:=^30}'.format (''))
 print('')
-print('{:=^30}'.format (' Teste de Par ou Impar '))
+print('{:=^30}'.format ('  Teste de Par ou Impar '))
 print('')
 impar = 0
 par = 0
