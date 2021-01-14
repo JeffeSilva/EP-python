@@ -14,6 +14,9 @@ while True:
     num = int(input('Informe um número: '))
     print('-=-' * 8)
     print('')
+    #Validações
+    while poui not in 'PpiI':
+        poui = str(input('Invalido verifique - [P/I]: ')).strip().upper()[0]
     #Logica do par ou Impar
     soma = comp + num
     if soma % 2 == 0:

@@ -2,7 +2,7 @@
 c = 0
 soma = 0
 while True:
-    num = int(input('Digite um valor: '))
+    num = int(input('Digite um valor(Para parar 999): '))
     if num == 999:
         break
     soma += num

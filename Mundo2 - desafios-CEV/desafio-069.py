@@ -20,7 +20,7 @@ while True:
         chc += 1
     if sexo in 'Ff' and idade < 20:
         mcmv += 1
-    if sair in 'S':
+    if sair in 'N':
         print('PROCESSANDO...')
         sleep(2)
         break
